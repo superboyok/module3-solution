@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	box-sizing: border-box;
+	background-color: pink;
+	margin: 0 0 0 0; padding: 0 0 0 0;
+}
+#main-content{
+	background-color: white;
+	width: 90%;
+}
+#header-nav{
+	background-color: #ffa6c9;
+	border-radius: 0;
+	border: 0;
+}
+.row {
+	margin-bottom: 15px;
+}
+.row > div{
+	border: 2px solid red;
+	background-color: gray;
+	min-height: 1000px;
+	max-height: 100%;
+}
+#navbar-brand{
+
+}
+.navbar-default .navbar-nav>li>a{
+	color: white;
+}
+.navbar-header button.navbar-toggle, .navbar-header .iconbar{
+	border: 1px solid pink;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+.navbar-default .navbar-toggle {
+    border-color: white;
+}
+.navbar-toggle{
+    background-color: black;
+}
+.navbar-header button.navbar-toggle, .navbar-header .iconbar{
+	border: 1px solid pink;
+}
+button{
+	color: white;
+}
+h1{
+	color: white;
+}
+h2{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bolder;
+}
+title{
+
+	text-align: center;
+	font-size: 40px;	
+}
+#main-content div{
+	font-size: 24px;
+}
